@@ -8,7 +8,7 @@ This only requires a UNIX system (this was tested on OSX Mojave) and Python 3 in
 
 The following command will run the program: ``` sudo python3 PayAttention.py ```
 
-The contents of the sites.txt file should just be plain text URL's with the 'www.' prefix included as well. Please start a new line after entering one domain name.
+The contents of the sites.txt file should just be plain text URL's with the <div>'www.'</div> prefix included as well. Please start a new line after entering one domain name.
 
 ```
 www.youtube.com
